@@ -1,0 +1,19 @@
+{
+    "connection": {
+        "server": "https://orgef2e132c.crm.dynamics.com/",
+        "solution": "",
+        "tenant": "common"
+    },
+    "name": "LTA.CRM.Plugins",
+    "isolationmode": "2",
+    "version": "1.0.0.0",
+    "publickeytoken": "LTA.CRM.Plugins.snk",
+    "types": [
+        {
+            "name": "LTA.CRM.Plugins.GlobalPlugin",
+            "typename": "LTA.CRM.Plugins.GlobalPlugin",
+            "friendlyname": "LTA.CRM.Plugins.GlobalPlugin",
+            "steps": []
+        }
+    ]
+}

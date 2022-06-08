@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "name": "lta-crm-plugins",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "gen": "plop",
+    "deploy": "dataverse-utils deploy assembly"
+  },
+  "dependencies": {
+    "dataverse-utils": "^2.2.7",
+    "powerapps-project-assembly": "^1.0.10"
+  }
+}
